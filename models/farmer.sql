@@ -1,0 +1,2 @@
+select * 
+from FARMER_MARKET.FARMER_SCH.CUSTOMER
